@@ -1,4 +1,4 @@
-#Blog Template
+# Blog Template
 
 First template of many.
 
